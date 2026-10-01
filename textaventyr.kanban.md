@@ -6,6 +6,18 @@
 
 ## To Do
 
+## In Progress
+
+## Done
+
+#### Klona repot
+<!-- id: task-1789371224632-115 -->
+Klona / forka repot och börja sedan jobba med materialet
+
+#### Skriv berättelsen
+<!-- id: task-1789371029039-86 -->
+<!-- priority: critical -->
+
 #### Spelarnamn
 <!-- id: task-1789370256358-0 -->
 programmet frågar efter spelarens namn och lagrar det i en variabel
@@ -29,15 +41,3 @@ minst två, och de ska vara olika. Slutar alla vägar likadant har spelarens val
 #### Inga kraschar
 <!-- id: task-1789370399886-49 -->
 vid normala inmatningar. Om du vill så kan du använda mönstret valideraren från kurswebben
-
-## In Progress
-
-## Done
-
-#### Klona repot
-<!-- id: task-1789371224632-115 -->
-Klona / forka repot och börja sedan jobba med materialet
-
-#### Skriv berättelsen
-<!-- id: task-1789371029039-86 -->
-<!-- priority: critical -->
