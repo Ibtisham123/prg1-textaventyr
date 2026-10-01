@@ -13,4 +13,4 @@ elif saknade ett vilkor, och indateringen gjorde att det sista else-blocket hamn
 Använda en kodeditor med syntaksmarkering som varnar för felaktig indatering och öppna strängar direkt.
 
 **AI-granskning (om tillämpligt):**
-[Vad AI föreslog / vad du ändrade / vad AI missade]
+Vad AI föreslog / vad du ändrade / vad AI missade
