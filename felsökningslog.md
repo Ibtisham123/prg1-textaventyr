@@ -1,16 +1,16 @@
 ## [Datum] – [Kort titel på problemet]
 
 **Vad gick fel:**
-[Beskriv problemet konkret]
+syntaxfel på grund av ett tomt elif , dubbla else-block och en oavslutad textsträng
 
 **Varför:**
-[Din analys av grundorsaken]
+elif saknade ett vilkor, och indateringen gjorde att det sista else-blocket hamnade utanför sin logiska kedja.
 
 **Hur jag löste det:**
-[Vad du faktiskt gjorde]
+Ändrade elif: till else:, stängde strängen och strukturerade om under en yttre if- sats
 
 **Vad jag skulle göra annorlunda:**
-[Din reflektion – det viktigaste fältet]
+Använda en kodeditor med syntaksmarkering som varnar för felaktig indatering och öppna strängar direkt.
 
 **AI-granskning (om tillämpligt):**
 [Vad AI föreslog / vad du ändrade / vad AI missade]
