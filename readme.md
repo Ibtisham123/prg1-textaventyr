@@ -20,12 +20,18 @@ Uppgiften är av programmeringskaraktär, men du behöver också göra planering
 
 ## Vad berättelsen handlar om
 
-En eller två meningar.
+interactiv sci-fi äventyr där spelaren har kraschlandat med sitt rymdskepp på en ökand planet
+
 
 ## Vägvalen
 
-Vilka val spelaren gör, och vart de leder.
+kontrollpanellen : 1) skicka nödsignal -> VINST , 2) Dra  ut kablar -> GAME OVER
+nödutgången : 1) ta med syrgastub -> VINST , 2) utan utrustning -> GAME OVER 
 
 ## Det som var svårast
 
+strukturera den logiken i python med if , elif och else så att värje val ha rätt ändamål
+
 ## Om jag hade mer tid
+
+jag skulle ha fler val och föremaål
